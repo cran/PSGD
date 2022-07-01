@@ -73,8 +73,8 @@ output <- cv.PSGD(x = x.train, y = y.train, n_models = 5,
                   cycling_iter = 0,
                   n_folds = 5,
                   n_threads = 1)
-psgd.coef <- coef(output, group_index = 1:object$n_models)
-psgd.predictions <- predict(output, newx = x.test, group_index = 1:object$n_models)
+psgd.coef <- coef(output, group_index = 1:output$n_models)
+psgd.predictions <- predict(output, newx = x.test, group_index = 1:output$n_models)
 mean((y.test - psgd.predictions)^2)/sigma.epsilon^2
 ```
 

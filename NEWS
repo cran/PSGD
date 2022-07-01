@@ -1,2 +1,8 @@
 # PSGD 1.0.0
 * Initial stable release of package.
+
+# PSGD 1.0.1
+* Fix model selection criteria.
+* Adapt projected gradient update.
+* Cross-validation function uses decrementing diversity.
+* Add multithreading to cross-validation function.
