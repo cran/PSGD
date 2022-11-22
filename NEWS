@@ -6,3 +6,6 @@
 * Adapt projected gradient update.
 * Cross-validation function uses decrementing diversity.
 * Add multithreading to cross-validation function.
+
+# PSGD 1.0.2
+* Removed invalid UTF-8 characters.
