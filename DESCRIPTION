@@ -1,8 +1,8 @@
 Package: PSGD
 Type: Package
 Title: Projected Subset Gradient Descent
-Version: 1.0.2
-Date: 2022-11-21
+Version: 1.0.3
+Date: 2023-04-24
 Authors@R: c(person("Anthony", "Christidis", role=c("aut", "cre"), email = "anthony.christidis@stat.ubc.ca"),
 	     person("Stefan", "Van Aelst", role=c("aut"), email = "stefan.vanaelst@kuleuven.be"),
 	     person("Ruben", "Zamar", role=c("aut"), email = "ruben@stat.ubc.ca"))
@@ -17,9 +17,9 @@ RoxygenNote: 7.1.1
 Imports: Rcpp (>= 1.0.7)
 Suggests: testthat, mvnfast
 NeedsCompilation: yes
-Packaged: 2022-11-21 22:18:26 UTC; antho
+Packaged: 2023-04-24 22:57:27 UTC; antho
 Author: Anthony Christidis [aut, cre],
   Stefan Van Aelst [aut],
   Ruben Zamar [aut]
 Repository: CRAN
-Date/Publication: 2022-11-22 09:10:31 UTC
+Date/Publication: 2023-04-24 23:10:03 UTC

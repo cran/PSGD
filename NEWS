@@ -9,3 +9,7 @@
 
 # PSGD 1.0.2
 * Removed invalid UTF-8 characters.
+
+# PSGD 1.0.3
+* Fix projection function in PS_Model.cpp.
+* Delete dynamically allocated model objects at the end of function calls.
