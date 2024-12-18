@@ -1,8 +1,8 @@
 
 [![Build
 Status](https://app.travis-ci.com/AnthonyChristidis/PSGD.svg?branch=master)](https://app.travis-ci.com/AnthonyChristidis/PSGD)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/PSGD)](https://cran.r-project.org/package=PSGD)
-[![Downloads](http://cranlogs.r-pkg.org/badges/PSGD)](https://cran.r-project.org/package=PSGD)
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/PSGD)](https://cran.r-project.org/package=PSGD)
+[![Downloads](https://cranlogs.r-pkg.org/badges/PSGD)](https://cran.r-project.org/package=PSGD)
 
 # PSGD
 

@@ -1,4 +1,4 @@
-3ef5b1c63c8a0d470ea9fe129d1300fe *DESCRIPTION
+a921016d909d9fd2500316ab95a32f4c *DESCRIPTION
 8d98c911ab253898c438a4aa9e4e68e5 *NAMESPACE
 bcbba3d2c02dac5345503f245f30717e *NEWS
 1853ad3a617840a9027002b297004475 *R/CV_PSGD.R
@@ -7,7 +7,7 @@ bcbba3d2c02dac5345503f245f30717e *NEWS
 4a6bc3bfa08a90a5000cbdb11b62f022 *R/PSGD.R
 b20d488c1c11825052449f0c808bab21 *R/Predictions.R
 338a838897367cdbf61fc2a5558aef3f *R/RcppExports.R
-80b519fe3f74c76f1f5db01c52af85c8 *README.md
+51ed9c1b688df4d2659d434f41d5b29a *README.md
 ccdbb882c645f67f951535d26054e50e *cleanup
 6f237fee2fc0c2884cffce5b1aab95ca *configure
 6d903ac0f40d35af6987d4918712ecc5 *configure.ac
@@ -39,4 +39,4 @@ ac8059e1027d1c8902921029cef507b0 *src/autoconfig.h
 ac8059e1027d1c8902921029cef507b0 *src/autoconfig.win.h
 3e0eb991155a4d7e1fdee28341c92791 *src/config.h
 e087437cd04c0bbe2e843297b5da9ca5 *tests/testthat.R
-04df6144073ae7841f83478f2cf7e5dd *tests/testthat/test_cv_function.R
+b1e59f89ba839aae74c6f2f3c37cb561 *tests/testthat/test_cv_function.R

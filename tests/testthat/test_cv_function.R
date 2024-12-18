@@ -5,6 +5,7 @@
 # Required libraries
 library(mvnfast)
 library(PSGD)
+library(vctrs)
 
 # Context of test script
 context("Verify output of cross-validation function.")
